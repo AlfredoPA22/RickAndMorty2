@@ -1,0 +1,19 @@
+.Detail{
+    font-family: 'Ysabeau', sans-serif;
+    display: flex;
+}
+
+.left{
+    width: 500px;
+    height: 400px;
+    margin: 3rem;
+    padding: 2rem;
+    border: solid 2px;
+}
+.right{
+    width: 500px;
+    height: 400px;
+    margin: 3rem;
+    padding: 2rem;
+    border: solid 2px;
+}

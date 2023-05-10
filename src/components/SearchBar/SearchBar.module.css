@@ -1,0 +1,26 @@
+.container{
+    width: 500px;
+    margin: auto;
+}
+.container input{
+    width: 300px;
+    font-size: 20px;
+    border: solid gray;
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+.container button{
+    background-color: #3C8ED6;
+    font-size: 20px;
+    color: aliceblue;
+    border: solid #3C8ED6; 
+    border-radius:2rem;
+    padding: 0.5rem 2rem;
+    transition: 0.5s;
+}
+.container button:hover{
+    background-color: #3CABD6;
+    border: solid #3CABD6;
+    cursor: pointer;
+}

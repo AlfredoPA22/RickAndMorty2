@@ -1,0 +1,32 @@
+.card{
+    background-color: #3C8ED6;
+    display: inline-block;
+    width: 300px;
+    border: solid 5px #646464;
+    border-radius: 2rem;
+    margin: 1rem 0.5rem;
+    padding: 0.5rem 0.5rem;
+    transition: 0.5s;
+    font-family: 'Ysabeau', sans-serif;
+}
+.card:hover{
+    background-color: #3CABD6;
+    
+}
+.card h2{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 0.5rem 0;
+}
+
+.card button{
+    background-color: white;
+    font-size: 20px;
+    padding: 0.2rem 0.5rem;
+    border: solid 1px white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.card img{
+    border-radius: 1rem;
+}
